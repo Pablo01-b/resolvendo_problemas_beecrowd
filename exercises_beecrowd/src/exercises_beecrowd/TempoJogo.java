@@ -19,7 +19,7 @@ public class TempoJogo {
 			duracao = (horaFinal - horaInicial);
 			System.out.printf("O JOGO DUROU %d HORA(S)%n", duracao);
 		}else {
-			duracao = (horaInicial - horaFinal - 24) * (-1);
+			duracao = 24 - horaInicial + horaFinal;
 			System.out.printf("O JOGO DUROU %d HORA(S)%n", duracao);
 		}
 		
