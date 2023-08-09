@@ -22,7 +22,6 @@ public class NumerosPositivos {
 		System.out.println(qtdPositivos + " valores positivos");
 		
 		sc.close();
-
 	}
 
 }
