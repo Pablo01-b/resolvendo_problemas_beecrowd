@@ -40,6 +40,7 @@ public class Animal {
 		}
 
 		sc.close();
+		//BEE 1049
 	}
 
 }
