@@ -14,5 +14,6 @@ public class area_do_circulo {
 		System.out.printf("A=%.4f%n", (3.14159 * Math.pow(raio, 2)));
 
 		sc.close();
+		//BEE 1002
 	}
 }
