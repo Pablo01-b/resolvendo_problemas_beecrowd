@@ -16,7 +16,7 @@ public class NumerosImpares {
 		}
 
 		sc.close();
-
+		//BEE 1067
 	}
 
 }
