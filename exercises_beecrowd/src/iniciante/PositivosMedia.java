@@ -28,7 +28,7 @@ public class PositivosMedia {
 		System.out.printf("%.1f%n", media);
 		
 		sc.close();
-
+		//BEE 1064
 	}
 
 }
