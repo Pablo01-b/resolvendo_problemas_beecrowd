@@ -16,5 +16,6 @@ public class soma_simples {
 		System.out.println("SOMA = " + SOMA);
 		
 		sc.close();
+		//BEE 1003
 	}
 }
