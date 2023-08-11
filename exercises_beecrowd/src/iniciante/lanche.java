@@ -38,6 +38,7 @@ public class lanche {
 		}
 
 		sc.close();
+		//BEE 1038
 	}
 
 }
