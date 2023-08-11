@@ -15,5 +15,6 @@ public class produto_simples {
 		System.out.println("PROD = " + (x * y));
 		
 		sc.close();
+		//BEE 1004
 	}
 }
