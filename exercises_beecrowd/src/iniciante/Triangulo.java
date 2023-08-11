@@ -24,6 +24,6 @@ public class Triangulo {
 		}
 		
 		sc.close();
-		
+		//BEE 1043
 	}
 }
