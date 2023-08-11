@@ -18,6 +18,7 @@ public class SeisNumerosImpares {
 		}
 		
 		sc.close();
+		//BEE 1070
 	}
 
 }
