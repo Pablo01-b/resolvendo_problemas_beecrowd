@@ -33,6 +33,7 @@ public class ParesImparesPositivosNegativos {
 		System.out.println(contadorNegativos + " valor(es) negativo(s)");
 		
 		sc.close();
+		//BEE 1066
 
 	}
 
