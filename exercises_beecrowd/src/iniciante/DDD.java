@@ -31,6 +31,7 @@ public class DDD {
 		}
 		
 		sc.close();
+		//BEE 1050
 
 	}
 
