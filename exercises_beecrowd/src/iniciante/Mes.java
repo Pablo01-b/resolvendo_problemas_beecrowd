@@ -53,6 +53,7 @@ public class Mes {
 		System.out.println(mes);
 		
 		sc.close();
+		//BEE 1052
 	}
 
 }
