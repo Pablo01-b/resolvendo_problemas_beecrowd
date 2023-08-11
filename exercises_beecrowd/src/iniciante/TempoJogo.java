@@ -24,6 +24,7 @@ public class TempoJogo {
 		}
 		
 		sc.close();
+		//BEE 1046
 	}
 
 }
