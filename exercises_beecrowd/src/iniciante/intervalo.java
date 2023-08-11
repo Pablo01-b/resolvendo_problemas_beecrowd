@@ -25,6 +25,7 @@ public class intervalo {
 		}
 	
 		sc.close();
+		//BEE 1037
 	}
 
 }
