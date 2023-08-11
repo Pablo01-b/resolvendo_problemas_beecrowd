@@ -21,6 +21,7 @@ public class Salario {
 		System.out.printf("SALARY = U$ %.2f%n", (valorHora * qtdHoras));
 		
 		sc.close();
+		//BEE 1008
 
 	}
 
