@@ -55,6 +55,7 @@ public class AumentoSalario {
 		}
 	
 		sc.close();
+		//BEE 1048
 
 	}
 
