@@ -17,7 +17,7 @@ public class media1 {
 		System.out.printf("MEDIA = %.5f%n", (A * 3.5 + B * 7.5) / 11);
 		
 		sc.close();
-
+		//BEE 1005
 	}
 
 }
