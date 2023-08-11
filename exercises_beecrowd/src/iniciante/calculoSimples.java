@@ -25,6 +25,7 @@ public class calculoSimples {
 		
 		
 		sc.close();
+		//BEE 1010
 	}
 
 }
