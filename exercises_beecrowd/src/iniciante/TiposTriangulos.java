@@ -42,6 +42,7 @@ public class TiposTriangulos {
 		}
 
 		sc.close();
+		//BEE 1045
 	}
 
 }
