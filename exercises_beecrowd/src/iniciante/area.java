@@ -22,6 +22,7 @@ public class area {
 		System.out.printf("RETANGULO: %.3f%n", A * B );
 	
 		sc.close();
+		//BEE 1012
 	}
 
 }
