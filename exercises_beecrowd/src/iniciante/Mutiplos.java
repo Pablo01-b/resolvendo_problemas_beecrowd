@@ -19,6 +19,7 @@ public class Mutiplos {
 		}
 		
 		sc.close();
+		//BEE 1044
 	}
 
 }
