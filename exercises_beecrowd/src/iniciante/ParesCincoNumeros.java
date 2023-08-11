@@ -21,6 +21,7 @@ public class ParesCincoNumeros {
 		System.out.println(contador + " valores pares");
 		
 		sc.close();
+		//BEE 1065
 	}
 
 }
