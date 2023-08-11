@@ -31,5 +31,6 @@ public class Coordenadas {
 		}
 				
 		sc.close();
+		//BEE 1041
 	}
 }
