@@ -1,4 +1,4 @@
-package exercises_beecrowd;
+package iniciante;
 
 import java.util.Scanner;
 

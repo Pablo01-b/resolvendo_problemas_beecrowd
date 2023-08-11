@@ -1,4 +1,4 @@
-package exercises_beecrowd;
+package iniciante;
 
 public class NumerosPares {
 
