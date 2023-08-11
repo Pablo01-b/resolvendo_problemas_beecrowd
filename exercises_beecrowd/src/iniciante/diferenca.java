@@ -19,6 +19,7 @@ public class diferenca {
 		System.out.printf("DIFERENCA = %.0f%n", diferenca);
 		
 		sc.close();
+		//BEE 1007
 
 	}
 
