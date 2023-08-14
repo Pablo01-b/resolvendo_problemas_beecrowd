@@ -23,6 +23,7 @@ public class MaiorPosição {
 			System.out.println(posicao);
 		
 		sc.close();
+		//BEE 1080
 	}
 
 }
